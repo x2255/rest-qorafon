@@ -1,0 +1,161 @@
+html{
+  background-color:#202C36;
+  color: #fff;
+}
+
+
+.contenr{
+  max-width: 1440px;
+  max-height: 1124px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 4px solid #000;
+}
+
+.title{
+  display: block;
+  display: flex;
+}
+
+.titl{
+  margin-top: 35px;
+  margin-left: 80px;
+  margin-right: 840px;
+  margin-bottom: 70px;
+}
+
+.moon{
+  margin-top: 32px;
+  margin-right: 20px;
+  border-radius: 70px;
+  align-items: flex-start;
+}
+
+.h{
+  margin-top: 31px;
+}
+
+.input{
+  display: block;
+  width: 370px;
+  height: 25px;
+  border-radius: 15px;
+  margin-left: 45px;
+
+}
+.inputt{
+  padding: 6px;
+  border: none;
+  background-color: #2B3844;
+}
+
+.input img{
+  margin-right: 20px;
+}
+
+.steyt{
+  display: block;
+  display: flex;
+}
+
+.select{
+  margin-left: 600px;
+  width: 250px;
+  height: 40px;
+  border: none;
+  border:2px solid rgb(239, 45, 45);
+  border-radius: 10px;
+  background-color: #2B3844;
+  color: #fff;
+}
+
+.flagg{
+  width: 265px;
+  height: 340;
+  flex-direction: column;
+  margin-left: 45px;
+  margin-top: 45px;
+  padding-top: 10px;
+  border-radius: 15px;
+  background-color:#2B3844;
+
+
+}
+
+
+.flag{
+  width: 265px;
+  height: 340;
+  padding-left: 60px;
+  margin-top: 45px;
+  border-radius: 15px;
+  background-color:#2B3844;
+
+}
+
+.fflag{
+  width: 265px;
+  height: 340;
+  padding-left: 60px;
+  margin-right: 40px;
+  margin-top: 45px;
+  border-radius: 15px;
+  background-color:#2B3844;
+
+
+}
+
+
+/*------------------------------------------------------------------------*/
+
+
+
+.fla{
+  width: 265px;
+  height: 340;
+  flex-direction: column;
+  margin-left: 45px;
+  margin-top: 25px;
+  border-radius: 15px;
+  background-color:#2B3844;
+
+
+
+}
+
+
+.flaga{
+  width: 265px;
+  height: 340;
+  padding-left: 60px;
+  margin-top: 25px;
+  background-color:#2B3844;
+  border-radius: 15px;
+
+}
+
+.lag{
+  width: 265px;
+  height: 340;
+  padding-left: 60px;
+  margin-right: 40px;
+  margin-top: 25px;
+  border-radius: 15px;
+  background-color:#2B3844;
+
+
+}
+
+/*-----------------------------------------------------------------------------------------*/
+
+
+.div{
+  display: block;
+  display: flex;
+}
+
+.section{
+  padding: 25px;
+}
